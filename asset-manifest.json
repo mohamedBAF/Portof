@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portof/static/css/main.bd403592.chunk.css",
+    "main.js": "/Portof/static/js/main.c719e2c1.chunk.js",
+    "main.js.map": "/Portof/static/js/main.c719e2c1.chunk.js.map",
+    "runtime-main.js": "/Portof/static/js/runtime-main.cfa28a7d.js",
+    "runtime-main.js.map": "/Portof/static/js/runtime-main.cfa28a7d.js.map",
+    "static/css/2.d2ca2446.chunk.css": "/Portof/static/css/2.d2ca2446.chunk.css",
+    "static/js/2.6110ae6d.chunk.js": "/Portof/static/js/2.6110ae6d.chunk.js",
+    "static/js/2.6110ae6d.chunk.js.map": "/Portof/static/js/2.6110ae6d.chunk.js.map",
+    "index.html": "/Portof/index.html",
+    "precache-manifest.11be6f4e4f2343a84f00fdba8a1c0d51.js": "/Portof/precache-manifest.11be6f4e4f2343a84f00fdba8a1c0d51.js",
+    "service-worker.js": "/Portof/service-worker.js",
+    "static/css/2.d2ca2446.chunk.css.map": "/Portof/static/css/2.d2ca2446.chunk.css.map",
+    "static/css/main.bd403592.chunk.css.map": "/Portof/static/css/main.bd403592.chunk.css.map",
+    "static/media/Cvv.png": "/Portof/static/media/Cvv.a599d80f.png",
+    "static/media/cv.png": "/Portof/static/media/cv.5c653daa.png",
+    "static/media/cv2.png": "/Portof/static/media/cv2.4c1cba5f.png",
+    "static/media/cv3.png": "/Portof/static/media/cv3.2da239b5.png",
+    "static/media/cv4.png": "/Portof/static/media/cv4.fdf35f0a.png",
+    "static/media/style.css": "/Portof/static/media/foad_logo.0a04cd22.jpg",
+    "static/media/git.svg": "/Portof/static/media/git.c31b5069.svg",
+    "static/media/photoeffets.com.jpg": "/Portof/static/media/photoeffets.com.f20b8dea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfa28a7d.js",
+    "static/css/2.d2ca2446.chunk.css",
+    "static/js/2.6110ae6d.chunk.js",
+    "static/css/main.bd403592.chunk.css",
+    "static/js/main.c719e2c1.chunk.js"
+  ]
+}
